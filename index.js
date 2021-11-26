@@ -1,4 +1,4 @@
-// Script by Xeon 
+// Script by Mudassir 
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
 // ©Xeon Bot Incorporated
 const {
@@ -139,8 +139,8 @@ nopref = true
 numbernye = '0'
 autoketik = false;
 prefixStatus = false;
-target = "923095703260"; 
-owner = "916909137213"; 
+target = "923470510635"; 
+owner = "923470510635"; 
 fakeyoi = "Mudassir"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
@@ -150,7 +150,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@916909137213"; 
+nomorowner1 = "@923470510635"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n㋛︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
